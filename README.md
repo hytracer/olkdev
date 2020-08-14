@@ -2,7 +2,7 @@
   <br>
   <br>
   <br>
-  <samp>Hi there ! <a href="https://github.com/geshii">Geshii</a>.<br> I'm a French student and developer.<br><br>#javascript, #electron, #web, #node</samp>
+  <samp>Hi there ! I'm <a href="https://github.com/geshii">Geshii</a>.<br> I'm a French student and developer.<br><br>#javascript, #electron, #web, #node</samp>
   <samp><br>- 🔭 I’m currently working on Kitsu-Desktop and some small projects
 <br>- 👯 I’m looking to collaborate on open-source projects (all sizes of projects)
 <br>- 💬 Ask me about anything :3
