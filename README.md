@@ -8,6 +8,7 @@
 <br>- 💬 Ask me about anything :3
 <br>- 📫 How to reach me: ohayo@geshii.moe, or Discord (Geshii#0001)
 <br>- 😄 Pronouns: He/Him
+<br>- ✨ I like: Music (J-pop, K-pop, contributed to https://listen.moe !), Video Games, Animes, Mangas
 <br>- ⚡ Website: https://geshii.moe</samp>
   <br>
   <br>
