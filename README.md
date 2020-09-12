@@ -3,8 +3,7 @@
   <br>
   <br>
   <samp>Hi there ! I'm <a href="https://github.com/geshii">Geshii</a>.<br> I'm a French student and developer.<br><br>#javascript, #electron, #web, #node</samp>
-  <samp><br>- 🔭 I’m currently working on Kitsu-Desktop and some medium projects (heyo (@sysLambda)[https://github.com/syslambda])
-<br>- ✨ I love to contribute to open-source projects and make some on my own.
+  <samp><br>- 🔭 I’m currently working on Kitsu-Desktop and some medium projects (heyo [@sysLambda])
 <br>- 🎮 I'm most of the time programming or playing some games (here's my steam page). I may also be cooking or tinkering.
 <br>- 👯 I’m looking to collaborate on open-source projects (all sizes of projects)
 <br>- 💬 Ask me about anything :3
