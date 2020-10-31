@@ -10,9 +10,9 @@
 <a href="https://hashnode.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg" alt="geshii" height="20" width="20" /></a>
 <a href="https://discord.gg/gS4SUg"><img align="center" alt="Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" /></a>
 </p>
-  <samp><br>- 🔭 I’m currently working on Kitsu-Desktop and some medium projects (heyo [@sysLambda]). Full time student & opensourcerer
-<br>- 🎮 I'm most of the time programming or playing some games (here's my steam page). I may also be cooking or tinkering.
-<br>- 🌃 Owner of one of the biggest French anime Discord server.
+  <samp><br>- 🔭 I’m currently working on multiple projects (heyo [@sysLambda]). Full time student & opensourcerer
+<br>- 🎮 I'm most of the time programming or playing some games. I may also be cooking or tinkering.
+<br>- 🌃 https://listen.moe <strong>partner & contributor</strong>
 <br>- 👯 I’m looking to collaborate on open-source projects (all sizes of projects)
 <br>- 💬 Ask me about anything :3
 <br>- 📫 How to reach me: ohayo@geshii.moe, or Discord (Geshii#0001)
